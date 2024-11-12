@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assignment5-datavis/static/css/main.fd2b8b8f.css",
+    "main.js": "/assignment5-datavis/static/js/main.b99907dd.js",
+    "index.html": "/assignment5-datavis/index.html",
+    "main.fd2b8b8f.css.map": "/assignment5-datavis/static/css/main.fd2b8b8f.css.map",
+    "main.b99907dd.js.map": "/assignment5-datavis/static/js/main.b99907dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2b8b8f.css",
+    "static/js/main.b99907dd.js"
+  ]
+}
